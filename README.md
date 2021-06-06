@@ -1,4 +1,4 @@
-# [**How Does a Bike-Share Navigate Speedy Success?**](https://github.com/ts756632/Case_Study_1)
+# [**Case Study:How Does a Bike-Share Navigate Speedy Success?**](https://github.com/ts756632/Case_Study_1)
 Tina Huang  2021-05-24
 
 
