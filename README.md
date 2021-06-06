@@ -1,4 +1,4 @@
-# **Case_Study:How Does a Bike-Share Navigate Speedy Success?**
+# **How Does a Bike-Share Navigate Speedy Success?**
 Tina Huang  2021-05-24
 
 
