@@ -11,4 +11,5 @@ Cyclistic, a bike-share company in Chicago, features more than 5,800 bicycles an
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How do annual members and casual riders use Cyclistic bikes differently?
 
-![](https://github.com/ts756632/Case_Study_1/blob/main/Numbers%20of%20trips.png)
+![] (https://github.com/ts756632/Case_Study_1/blob/main/Numbers%20of%20trips.png)
+    
