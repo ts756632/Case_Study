@@ -10,3 +10,5 @@ Cyclistic, a bike-share company in Chicago, features more than 5,800 bicycles an
 1. How can Cyclistic use digital media to influence casual riders to become members?
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How do annual members and casual riders use Cyclistic bikes differently?
+
+![Numbers of trips](Numbers of trips.png)
