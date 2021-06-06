@@ -13,3 +13,12 @@ Cyclistic, a bike-share company in Chicago, features more than 5,800 bicycles an
 
 ![](https://github.com/ts756632/Case_Study_1/blob/main/Numbers%20of%20trips.png)
     
+## **Top Three Recommendations**
+**1.	Price discrimination for different ride length**
+Since casual riders tend to have longer ride length than members, the marketing team could provide price discounts for members when the ride length exceeds a particular duration to attract casual riders to be annual members. And inform casual riders the discount with emails, pop-up ads on the bike-share apps or other digital marking tools.
+
+**2.	Price discrimination for different day of week**
+Since casual riders have fewer trips on weekdays and lower average ride length on Thursdays, the marketing team could provide price discounts for casual riders on weekdays, especially Thursday to increase customer adoption leading to annual membership subscriptions.
+
+**3.	Promote the benefits of riding a bike**
+Social media is an effective form of advertisement to increase user adoption. The health benefits of bike riding could be promoted with articles to increase bike usage among commuters and as a source of leisure activity.
