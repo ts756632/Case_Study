@@ -30,5 +30,8 @@ Bellabeat, a high-tech company that manufactures health-focused smart products. 
 3.	How do users track wellness data in smart device?
 
 
+### Tool used:
+1. Microsoft SQL Server: data cleaning and analysis
+2. Tableau: data visualization
 
     
