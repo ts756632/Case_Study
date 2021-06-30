@@ -12,7 +12,7 @@ Cyclistic, a bike-share company in Chicago, features more than 5,800 bicycles an
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How do annual members and casual riders use Cyclistic bikes differently?
 
-### Tool used:
+## Tool used:
 1. Spreadsheets: data cleaning and analysis
 2. R: data nalysis and visualization
 
@@ -32,7 +32,7 @@ Bellabeat, a high-tech company that manufactures health-focused smart products. 
 3.	How do users track wellness data in smart device?
 
 
-### Tool used:
+## Tool used:
 1. Microsoft SQL Server: data cleaning and analysis
 2. Tableau: data visualization
 
