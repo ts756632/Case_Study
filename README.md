@@ -43,7 +43,7 @@ Tina Huang  2021-07-03
 
 
 ## **Scenario** 
-"This is a Women’s Clothing E-Commerce dataset revolving around the reviews written by customers. Its nine supportive features offer a great environment to parse out the text through its multiple dimensions."  
+Online shopping become more and more popular especially during the coronavirus pandemic. This is a Women’s Clothing E-Commerce dataset revolving around the reviews written by customers. More than ever customers have something to say with the products after purchasing. Customers usually talk about products on customer feedback forums. Sentiment analysis can be used to gauge customer response. It helps companies to improve the products according to the customers feedback. 
 
 ### Data set:  [Women's E-Commerce Clothing Reviews](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews)
 
