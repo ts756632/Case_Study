@@ -1,4 +1,4 @@
-# [**Case Study 1: How Does a Bike-Share Navigate Speedy Success?**](https://github.com/ts756632/Case_Study_1)
+# [**Project 1: How Does a Bike-Share Navigate Speedy Success?**](https://github.com/ts756632/Case_Study_1)
 Tina Huang  2021-05-24
 
 
@@ -17,7 +17,7 @@ Cyclistic, a bike-share company in Chicago, features more than 5,800 bicycles an
 2. R: data nalysis and visualization
 
 
-# [**Case Study 2: How Can a Wellness Technology Company Play It Smart?**](https://github.com/ts756632/Case_Study_2)
+# [**Project 2: How Can a Wellness Technology Company Play It Smart?**](https://github.com/ts756632/Case_Study_2)
 Tina Huang  2021-06-14
 
 
@@ -37,3 +37,22 @@ Bellabeat, a high-tech company that manufactures health-focused smart products. 
 2. Tableau: data visualization
 
     
+
+# [**Project 3: Reviews-Sentiment-Analysis**](https://github.com/ts756632/Reviews-Sentiment-Analysis)
+Tina Huang  2021-07-03
+
+
+## **Scenario** 
+Bellabeat, a high-tech company that manufactures health-focused smart products. Collecting data on activity, sleep, stress, and reproductive health has allowed Bellabeat to empower women with knowledge about their own health and habits. The cofounder want to know how consumers use non-Bellabeat smart devices.
+
+### Data set:  [Women's E-Commerce Clothing Reviews](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews)
+
+## **Business Task**
+1.	How could these trends help influence Bellabeat marketing strategy?
+2.	How could these trends apply to Bellabeat customers?
+3.	How do users track wellness data in smart device?
+
+
+## Tool used:
+1. Python: data cleaning, analysis and visualization
+
