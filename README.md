@@ -15,7 +15,7 @@ Cyclistic, a bike-share company in Chicago, features more than 5,800 bicycles an
 ## Tool used:
 #### 1. Spreadsheets: data cleaning and analysis
 #### 2. R: data nalysis and visualization
-
+![](https://github.com/ts756632/Tina_portfolio/blob/main/%E5%9C%96%E7%89%879.png)
 
 # [**Project 2: How Can a Wellness Technology Company Play It Smart?**](https://github.com/ts756632/Case_Study_2)
 Tina Huang  2021-06-14
@@ -35,7 +35,7 @@ Bellabeat, a high-tech company that manufactures health-focused smart products. 
 ## Tool used:
 #### 1. Microsoft SQL Server: data cleaning and analysis
 #### 2. Tableau: data visualization
-
+![](https://github.com/ts756632/Tina_portfolio/blob/main/Wellness_dashboard.png)
     
 
 # [**Project 3: Reviews-Sentiment-Analysis**](https://github.com/ts756632/Reviews-Sentiment-Analysis)
@@ -55,5 +55,4 @@ Online shopping become more and more popular especially during the coronavirus p
 
 ## Tool used:
 #### 1. Python: data cleaning, analysis and visualization
-
 ![](https://github.com/ts756632/Tina_portfolio/blob/main/wordcloud11.png)
