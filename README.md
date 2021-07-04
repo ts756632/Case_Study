@@ -56,3 +56,4 @@ Online shopping become more and more popular especially during the coronavirus p
 ## Tool used:
 #### 1. Python: data cleaning, analysis and visualization
 
+![](https://github.com/ts756632/Tina_portfolio/blob/main/wordcloud11.png)
