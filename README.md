@@ -43,14 +43,14 @@ Tina Huang  2021-07-03
 
 
 ## **Scenario** 
-Bellabeat, a high-tech company that manufactures health-focused smart products. Collecting data on activity, sleep, stress, and reproductive health has allowed Bellabeat to empower women with knowledge about their own health and habits. The cofounder want to know how consumers use non-Bellabeat smart devices.
+"This is a Women’s Clothing E-Commerce dataset revolving around the reviews written by customers. Its nine supportive features offer a great environment to parse out the text through its multiple dimensions."  
 
 ### Data set:  [Women's E-Commerce Clothing Reviews](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews)
 
 ## **Business Task**
-1.	How could these trends help influence Bellabeat marketing strategy?
-2.	How could these trends apply to Bellabeat customers?
-3.	How do users track wellness data in smart device?
+1.	How do customers response to the products?
+2.	What are the trends in the review data?
+
 
 
 ## Tool used:
