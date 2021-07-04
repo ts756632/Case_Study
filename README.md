@@ -38,7 +38,7 @@ Bellabeat, a high-tech company that manufactures health-focused smart products. 
 ![](https://github.com/ts756632/Tina_portfolio/blob/main/Wellness_dashboard.png)
     
 
-# [**Project 3: Reviews-Sentiment-Analysis**](https://github.com/ts756632/Reviews-Sentiment-Analysis)
+# [**Project 3: Women's E-Commerce Clothing Reviews Sentiment Analysis**](https://github.com/ts756632/Reviews-Sentiment-Analysis)
 Tina Huang  2021-07-03
 
 
