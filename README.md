@@ -49,7 +49,7 @@ Online shopping becomes more and more popular especially during the coronavirus 
 
 ## **Business Task**
 1.	How to improve products based on customers reviews?
-2.	How do customers response to the products?
+2.	How do customers respond to the products?
 3.	What are the trends in the review data?
 
 
