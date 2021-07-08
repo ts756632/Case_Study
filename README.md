@@ -48,8 +48,10 @@ Online shopping becomes more and more popular especially during the coronavirus 
 ### Data set:  [Women's E-Commerce Clothing Reviews](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews)
 
 ## **Business Task**
-1.	How do customers response to the products?
-2.	What are the trends in the review data?
+1.	How to improve products based on customers reviews?
+2.	How do customers response to the products?
+3.	What are the trends in the review data?
+
 
 
 ## Tool used:
