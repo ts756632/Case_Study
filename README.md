@@ -14,7 +14,7 @@ Cyclistic, a bike-share company in Chicago, features more than 5,800 bicycles an
 
 ## Tool used:
 #### 1. Spreadsheets: data cleaning and analysis
-#### 2. R: data nalysis and visualization
+#### 2. R: data analysis and visualization
 ![](https://github.com/ts756632/Tina_portfolio/blob/main/Numbers%20of%20trips.png)
 
 # [**Project 2: How Can a Wellness Technology Company Play It Smart?**](https://github.com/ts756632/Case_Study_2)
