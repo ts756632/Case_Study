@@ -24,7 +24,7 @@ Tina Huang  2021-06-14
 ## **Scenario** 
 Bellabeat, a high-tech company that manufactures health-focused smart products. Collecting data on activity, sleep, stress, and reproductive health has allowed Bellabeat to empower women with knowledge about their own health and habits. The cofounder want to know how consumers use non-Bellabeat smart devices.
 
-### Data set:  [FitBit Fitness Tracker Data](https://www.kaggle.com/arashnic/fitbi)
+Data set:  [FitBit Fitness Tracker Data](https://www.kaggle.com/arashnic/fitbi)
 
 ## **Business Task**
 1.	How could these trends help influence Bellabeat marketing strategy?
@@ -45,7 +45,7 @@ Tina Huang  2021-07-03
 ## **Scenario** 
 Online shopping becomes more and more popular especially during the coronavirus pandemic. This is a Women’s Clothing E-Commerce dataset revolving around the reviews written by customers. More than ever customers have something to say with the products after purchasing. Sentiment analysis can be used to gauge customer response. It helps companies to improve the products according to the customers feedback. 
 
-### Data set:  [Women's E-Commerce Clothing Reviews](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews)
+Data set:  [Women's E-Commerce Clothing Reviews](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews)
 
 ## **Business Task**
 1.	How to improve products based on customers reviews?
