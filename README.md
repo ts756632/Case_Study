@@ -1,5 +1,52 @@
-# [**Project 1: How Does a Bike-Share Navigate Speedy Success?**](https://github.com/ts756632/Case_Study_1)
-Tina Huang  2021-05-24
+
+# [**Project 1: Online Store Digital Analysis**](https://github.com/ts756632/8_Week_SQL_Challenge)
+
+
+## **Scenario** 
+Clique Bait is not like regular online seafood store - the founder and CEO Danny, was also a part of a digital data analytics team and wanted to expand his knowledge into the seafood industry!
+
+In this case study - we are required to support Danny’s vision and analyse his dataset and come up with creative solutions to calculate funnel fallout rates for the Clique Bait online store.
+
+The case study and datasets are from [8 Week SQL Challenge](https://8weeksqlchallenge.com/case-study-6/) created by Danny Ma.
+
+## **Business Task**
+1. How many users are there?
+2. How many cookies does each user have on average?
+3. What is the unique number of visits by all users per month?
+4. What is the number of events for each event type?
+5. What is the percentage of visits which have a purchase event?
+6. What is the percentage of visits which view the checkout page but do not have a purchase event?
+7. What are the top 3 pages by number of views?
+8. What is the number of views and cart adds for each product category?
+9. What are the top 3 products by purchases?
+
+## Tool used:
+#### 1. PostgreSQL: data analysis 
+
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/61902789/132230660-4395d821-90fa-4733-9dba-87c101f77e60.png">
+
+
+# [**Project 2: Women's E-Commerce Clothing Reviews Sentiment Analysis**](https://github.com/ts756632/Reviews-Sentiment-Analysis)
+
+
+## **Scenario** 
+Online shopping becomes more and more popular especially during the coronavirus pandemic. This is a Women’s Clothing E-Commerce dataset revolving around the reviews written by customers. More than ever customers have something to say with the products after purchasing. Sentiment analysis can be used to gauge customer response. It helps companies to improve the products according to the customers feedback. 
+
+Data set:  [Women's E-Commerce Clothing Reviews](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews)
+
+## **Business Task**
+1.	How to improve products based on customers reviews?
+2.	How do customers respond to the products?
+3.	What are the trends in the review data?
+
+
+## Tool used:
+#### 1. Python: data cleaning, analysis and visualization
+![](https://github.com/ts756632/Tina_portfolio/blob/main/wordcloud11.png)
+
+
+# [**Project 3: How Does a Bike-Share Navigate Speedy Success?**](https://github.com/ts756632/Case_Study_1)
 
 
 ## **Scenario** 
@@ -17,8 +64,8 @@ Data set:  [Bike Sharing](https://divvy-tripdata.s3.amazonaws.com/index.html)
 #### 2. R: data analysis and visualization
 ![](https://github.com/ts756632/Tina_portfolio/blob/main/Numbers%20of%20trips.png)
 
-# [**Project 2: How Can a Wellness Technology Company Play It Smart?**](https://github.com/ts756632/Case_Study_2)
-Tina Huang  2021-06-14
+
+# [**Project 4: How Can a Wellness Technology Company Play It Smart?**](https://github.com/ts756632/Case_Study_2)
 
 
 ## **Scenario** 
@@ -36,24 +83,3 @@ Data set:  [FitBit Fitness Tracker Data](https://www.kaggle.com/arashnic/fitbi)
 #### 1. Microsoft SQL Server: data cleaning and analysis
 #### 2. Tableau: data visualization
 ![](https://github.com/ts756632/Tina_portfolio/blob/main/Wellness_dashboard.png)
-    
-
-# [**Project 3: Women's E-Commerce Clothing Reviews Sentiment Analysis**](https://github.com/ts756632/Reviews-Sentiment-Analysis)
-Tina Huang  2021-07-03
-
-
-## **Scenario** 
-Online shopping becomes more and more popular especially during the coronavirus pandemic. This is a Women’s Clothing E-Commerce dataset revolving around the reviews written by customers. More than ever customers have something to say with the products after purchasing. Sentiment analysis can be used to gauge customer response. It helps companies to improve the products according to the customers feedback. 
-
-Data set:  [Women's E-Commerce Clothing Reviews](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews)
-
-## **Business Task**
-1.	How to improve products based on customers reviews?
-2.	How do customers respond to the products?
-3.	What are the trends in the review data?
-
-
-
-## Tool used:
-#### 1. Python: data cleaning, analysis and visualization
-![](https://github.com/ts756632/Tina_portfolio/blob/main/wordcloud11.png)
