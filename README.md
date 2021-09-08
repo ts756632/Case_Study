@@ -44,7 +44,7 @@ Data set:  [Women's E-Commerce Clothing Reviews](https://www.kaggle.com/nicapota
 ## Tool used:
 #### 1. Python: data cleaning, analysis and visualization <br>
 
-<img width="350" alt="image" src="https://user-images.githubusercontent.com/61902789/132507768-2aba6b7f-62c2-4ddb-b02c-bce7e28e7460.png">
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/61902789/132507768-2aba6b7f-62c2-4ddb-b02c-bce7e28e7460.png">
 
 # [**Project 3: How Does a Bike-Share Navigate Speedy Success?**](https://github.com/ts756632/Case_Study_1)
 
@@ -61,8 +61,10 @@ Data set:  [Bike Sharing](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
 ## Tool used:
 #### 1. Spreadsheets: data cleaning and analysis
-#### 2. R: data analysis and visualization
-![](https://github.com/ts756632/Tina_portfolio/blob/main/Numbers%20of%20trips.png)
+#### 2. R: data analysis and visualization <br>
+
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/61902789/132508049-4b8d16db-b504-439e-a0b0-fbea9aa5d496.png">
+
 
 
 # [**Project 4: How Can a Wellness Technology Company Play It Smart?**](https://github.com/ts756632/Case_Study_2)
@@ -82,4 +84,5 @@ Data set:  [FitBit Fitness Tracker Data](https://www.kaggle.com/arashnic/fitbi)
 ## Tool used:
 #### 1. Microsoft SQL Server: data cleaning and analysis
 #### 2. Tableau: data visualization
-![](https://github.com/ts756632/Tina_portfolio/blob/main/Wellness_dashboard.png)
+
+![Wellness_dashboard](https://user-images.githubusercontent.com/61902789/132508187-3eefceb8-fc70-4817-a2da-dcb549b32e98.png)
