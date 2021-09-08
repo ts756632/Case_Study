@@ -23,8 +23,9 @@ The case study and datasets are from [8 Week SQL Challenge](https://8weeksqlchal
 
 ## Tool used:
 #### 1. PostgreSQL: data analysis <br>
+<br>
+<br>
 
-***
 
 # [**Project 2: Women's E-Commerce Clothing Reviews Sentiment Analysis**](https://github.com/ts756632/Reviews-Sentiment-Analysis)
 
@@ -44,7 +45,8 @@ Data set:  [Women's E-Commerce Clothing Reviews](https://www.kaggle.com/nicapota
 ## Tool used:
 #### 1. Python: data cleaning, analysis and visualization <br>
 
-***
+<br>
+<br>
 
 # [**Project 3: How Does a Bike-Share Navigate Speedy Success?**](https://github.com/ts756632/Case_Study_1)
 
@@ -65,7 +67,8 @@ Data set:  [Bike Sharing](https://divvy-tripdata.s3.amazonaws.com/index.html)
 #### 1. Spreadsheets: data cleaning and analysis
 #### 2. R: data analysis and visualization <br>
 
-***
+<br>
+<br>
 
 # [**Project 4: How Can a Wellness Technology Company Play It Smart?**](https://github.com/ts756632/Case_Study_2)
 
