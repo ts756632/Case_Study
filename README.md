@@ -21,7 +21,7 @@ The case study and datasets are from [8 Week SQL Challenge](https://8weeksqlchal
 9. What are the top 3 products by purchases?
 
 ## Tool used:
-#### 1. PostgreSQL: data analysis 
+#### 1. PostgreSQL: data analysis <br>
 
 
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/61902789/132230660-4395d821-90fa-4733-9dba-87c101f77e60.png">
@@ -42,8 +42,9 @@ Data set:  [Women's E-Commerce Clothing Reviews](https://www.kaggle.com/nicapota
 
 
 ## Tool used:
-#### 1. Python: data cleaning, analysis and visualization
-![](https://github.com/ts756632/Tina_portfolio/blob/main/wordcloud11.png)
+#### 1. Python: data cleaning, analysis and visualization <br>
+
+![image](https://user-images.githubusercontent.com/61902789/132507768-2aba6b7f-62c2-4ddb-b02c-bce7e28e7460.png)
 
 
 # [**Project 3: How Does a Bike-Share Navigate Speedy Success?**](https://github.com/ts756632/Case_Study_1)
