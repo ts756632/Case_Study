@@ -63,7 +63,7 @@ Data set:  [Bike Sharing](https://divvy-tripdata.s3.amazonaws.com/index.html)
 #### 1. Spreadsheets: data cleaning and analysis
 #### 2. R: data analysis and visualization <br>
 
-<img width="550" alt="image" src="https://user-images.githubusercontent.com/61902789/132508049-4b8d16db-b504-439e-a0b0-fbea9aa5d496.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/61902789/132508049-4b8d16db-b504-439e-a0b0-fbea9aa5d496.png">
 
 
 
