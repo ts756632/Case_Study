@@ -1,6 +1,7 @@
 
 # [**Project 1: Online Store Digital Analysis**](https://github.com/ts756632/8_Week_SQL_Challenge)
 
+<img width="370" alt="image" src="https://user-images.githubusercontent.com/61902789/132230660-4395d821-90fa-4733-9dba-87c101f77e60.png">
 
 ## **Scenario** 
 Clique Bait is not like regular online seafood store - the founder and CEO Danny, was also a part of a digital data analytics team and wanted to expand his knowledge into the seafood industry!
@@ -24,11 +25,9 @@ The case study and datasets are from [8 Week SQL Challenge](https://8weeksqlchal
 #### 1. PostgreSQL: data analysis <br>
 
 
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/61902789/132230660-4395d821-90fa-4733-9dba-87c101f77e60.png">
-
-
 # [**Project 2: Women's E-Commerce Clothing Reviews Sentiment Analysis**](https://github.com/ts756632/Reviews-Sentiment-Analysis)
 
+<img width="430" alt="image" src="https://user-images.githubusercontent.com/61902789/132507768-2aba6b7f-62c2-4ddb-b02c-bce7e28e7460.png">
 
 ## **Scenario** 
 Online shopping becomes more and more popular especially during the coronavirus pandemic. This is a Women’s Clothing E-Commerce dataset revolving around the reviews written by customers. More than ever customers have something to say with the products after purchasing. Sentiment analysis can be used to gauge customer response. It helps companies to improve the products according to the customers feedback. 
@@ -44,9 +43,11 @@ Data set:  [Women's E-Commerce Clothing Reviews](https://www.kaggle.com/nicapota
 ## Tool used:
 #### 1. Python: data cleaning, analysis and visualization <br>
 
-<img width="450" alt="image" src="https://user-images.githubusercontent.com/61902789/132507768-2aba6b7f-62c2-4ddb-b02c-bce7e28e7460.png">
+
 
 # [**Project 3: How Does a Bike-Share Navigate Speedy Success?**](https://github.com/ts756632/Case_Study_1)
+
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/61902789/132508049-4b8d16db-b504-439e-a0b0-fbea9aa5d496.png">
 
 
 ## **Scenario** 
@@ -63,12 +64,11 @@ Data set:  [Bike Sharing](https://divvy-tripdata.s3.amazonaws.com/index.html)
 #### 1. Spreadsheets: data cleaning and analysis
 #### 2. R: data analysis and visualization <br>
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/61902789/132508049-4b8d16db-b504-439e-a0b0-fbea9aa5d496.png">
-
 
 
 # [**Project 4: How Can a Wellness Technology Company Play It Smart?**](https://github.com/ts756632/Case_Study_2)
 
+![Wellness_dashboard](https://user-images.githubusercontent.com/61902789/132508187-3eefceb8-fc70-4817-a2da-dcb549b32e98.png)
 
 ## **Scenario** 
 Bellabeat, a high-tech company that manufactures health-focused smart products. Collecting data on activity, sleep, stress, and reproductive health has allowed Bellabeat to empower women with knowledge about their own health and habits. The cofounder want to know how consumers use non-Bellabeat smart devices.
@@ -85,4 +85,4 @@ Data set:  [FitBit Fitness Tracker Data](https://www.kaggle.com/arashnic/fitbi)
 #### 1. Microsoft SQL Server: data cleaning and analysis
 #### 2. Tableau: data visualization
 
-![Wellness_dashboard](https://user-images.githubusercontent.com/61902789/132508187-3eefceb8-fc70-4817-a2da-dcb549b32e98.png)
+
