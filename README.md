@@ -1,4 +1,20 @@
-# [**Project 1: Women's E-Commerce Clothing Reviews Sentiment Analysis**](https://github.com/ts756632/Reviews-Sentiment-Analysis)
+# [**Project 1: Online Store Digital Analysis**](https://github.com/ts756632/8_Week_SQL_Challenge/tree/main/Case%20Study%20%236)
+
+<img width="370" alt="image" src="https://user-images.githubusercontent.com/61902789/132230660-4395d821-90fa-4733-9dba-87c101f77e60.png">
+
+## **Scenario** 
+Clique Bait is not like regular online seafood store - the founder and CEO Danny, was also a part of a digital data analytics team and wanted to expand his knowledge into the seafood industry!
+
+In this case study - we are required to support Danny’s vision and analyse his dataset and come up with creative solutions to calculate funnel fallout rates for the Clique Bait online store.
+
+The case study and datasets are from [8 Week SQL Challenge](https://8weeksqlchallenge.com/case-study-6/) created by Danny Ma.
+
+**Tool used: PostgreSQL** 
+
+**Skills: Aggregate Functions, Converting Data Types, Windows Functions, Multiple CTE's, Joins, Subqueries**
+
+
+# [**Project 2: Women's E-Commerce Clothing Reviews Sentiment Analysis**](https://github.com/ts756632/Reviews-Sentiment-Analysis)
 
 <img width="430" alt="image" src="https://user-images.githubusercontent.com/61902789/132507768-2aba6b7f-62c2-4ddb-b02c-bce7e28e7460.png">
 
@@ -19,7 +35,7 @@ Data set:  [Women's E-Commerce Clothing Reviews](https://www.kaggle.com/nicapota
 <br>
 <br>
 
-# [**Project 2: How Does a Bike-Share Navigate Speedy Success?**](https://github.com/ts756632/Case_Study_1)
+# [**Project 3: How Does a Bike-Share Navigate Speedy Success?**](https://github.com/ts756632/Case_Study_1)
 
 <img width="450" alt="image" src="https://user-images.githubusercontent.com/61902789/132508049-4b8d16db-b504-439e-a0b0-fbea9aa5d496.png">
 
@@ -41,7 +57,7 @@ Data set:  [Bike Sharing](https://divvy-tripdata.s3.amazonaws.com/index.html)
 <br>
 <br>
 
-# [**Project 3: How Can a Wellness Technology Company Play It Smart?**](https://github.com/ts756632/Case_Study_2)
+# [**Project 4: How Can a Wellness Technology Company Play It Smart?**](https://github.com/ts756632/Case_Study_2)
 
 ![Wellness_dashboard](https://user-images.githubusercontent.com/61902789/132508187-3eefceb8-fc70-4817-a2da-dcb549b32e98.png)
 
