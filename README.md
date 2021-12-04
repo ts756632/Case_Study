@@ -9,9 +9,14 @@ In this case study - we are required to support Danny’s vision and analyse his
 
 The case study and datasets are from [8 Week SQL Challenge](https://8weeksqlchallenge.com/case-study-6/) created by Danny Ma.
 
-**Tool used: PostgreSQL** 
+## **Business Task**
 
-**Skills: Aggregate Functions, Converting Data Types, Windows Functions, Multiple CTE's, Joins, Subqueries**
+
+## Tool used:
+#### 1. PostgreSQL: data analysis <br>
+<br>
+<br>
+
 
 
 # [**Project 2: Women's E-Commerce Clothing Reviews Sentiment Analysis**](https://github.com/ts756632/Reviews-Sentiment-Analysis)
