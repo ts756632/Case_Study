@@ -62,7 +62,33 @@ Data set:  [Bike Sharing](https://divvy-tripdata.s3.amazonaws.com/index.html)
 <br>
 <br>
 
-# [**Project 4: How Can a Wellness Technology Company Play It Smart?**](https://github.com/ts756632/Case_Study_2)
+# [**Project 4: Maven Taxi Challenge**](https://public.tableau.com/app/profile/wan.chi.huang/viz/TaxiTripsin2020/Dashboard1?publish=yes)
+
+![Dashboard 1](https://user-images.githubusercontent.com/61902789/144736552-c0d76207-948d-4fb8-a951-0c8c713da6af.png)
+
+## **Scenario** 
+For the [Maven Taxi Challenge](https://www.mavenanalytics.io/blog/maven-taxi-challenge?fbclid=IwAR34AKk56S7Z_WZQkSUqwV53J_FlQYIN9O_RvZdVGEUOyKirZRdnrO9uLe0), you’ll be playing the role of a new Data Analyst for the New York City Taxi & Limousine Commission. The raw data has some issues, so we'll need to make the some adjustments and assumptions to clean and prep the data. Once the data is cleaned up, build a dashboard to help with weekly planning and logistics. 
+
+Data set:  [NYC Taxi Trips](https://www.mavenanalytics.io/data-playground)
+
+## **Business Task**
+
+For a given week,
+1. What's the average number of trips ?
+2. What's the average fare, distance and passengers per trip?
+3. What is the busiest time?
+4. What is the most popular pick-up and drop-off locations in the entire year?
+
+
+
+## Tool used:
+#### 1. Microsoft SQL Server: data cleaning  
+#### 2. Tableau: data analysis and visualization
+
+<br>
+<br>
+
+# [**Project 5: How Can a Wellness Technology Company Play It Smart?**](https://github.com/ts756632/Case_Study_2)
 
 ![Wellness_dashboard](https://user-images.githubusercontent.com/61902789/132508187-3eefceb8-fc70-4817-a2da-dcb549b32e98.png)
 
@@ -80,5 +106,3 @@ Data set:  [FitBit Fitness Tracker Data](https://www.kaggle.com/arashnic/fitbi)
 ## Tool used:
 #### 1. Microsoft SQL Server: data cleaning and analysis
 #### 2. Tableau: data visualization
-
-
