@@ -10,7 +10,9 @@ In this case study - we are required to support Danny’s vision and analyse his
 The case study and datasets are from [8 Week SQL Challenge](https://8weeksqlchallenge.com/case-study-6/) created by Danny Ma.
 
 ## **Business Task**
-
+1.  How do customers behave in an online shopping website?
+2.  What are the top 3 products for each event?
+3.  What is the conversion rate among different metrics?
 
 ## Tool used:
 #### 1. PostgreSQL: data analysis <br>
