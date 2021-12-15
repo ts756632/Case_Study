@@ -13,6 +13,7 @@ The case study and datasets are from [8 Week SQL Challenge](https://8weeksqlchal
 1.  How do customers behave in an online shopping website?
 2.  What are the top 3 products for each event?
 3.  What is the conversion rate among different metrics?
+4.  How does the campaign influence the two groups (visits who have received impressions and who don't)?
 
 ## Tool used:
 #### 1. PostgreSQL: data analysis <br>
