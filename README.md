@@ -21,51 +21,7 @@ The case study and datasets are from [8 Week SQL Challenge](https://8weeksqlchal
 <br>
 
 
-
-# [**Project 2: Women's E-Commerce Clothing Reviews Sentiment Analysis**](https://github.com/ts756632/Reviews-Sentiment-Analysis)
-
-<img width="430" alt="image" src="https://user-images.githubusercontent.com/61902789/132507768-2aba6b7f-62c2-4ddb-b02c-bce7e28e7460.png">
-
-## **Scenario** 
-Online shopping becomes more and more popular especially during the coronavirus pandemic. This is a Women’s Clothing E-Commerce dataset revolving around the reviews written by customers. More than ever customers have something to say with the products after purchasing. Sentiment analysis can be used to gauge customer response. It helps companies to improve the products according to the customers feedback. 
-
-Data set:  [Women's E-Commerce Clothing Reviews](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews)
-
-## **Business Task**
-1.	How to improve products based on customers reviews?
-2.	How do customers respond to the products?
-3.	What are the trends in the review data?
-
-
-## Tool used:
-#### 1. Python: data cleaning, analysis and visualization <br>
-
-<br>
-<br>
-
-# [**Project 3: How Does a Bike-Share Navigate Speedy Success?**](https://github.com/ts756632/Case_Study_1)
-
-<img width="450" alt="image" src="https://user-images.githubusercontent.com/61902789/132508049-4b8d16db-b504-439e-a0b0-fbea9aa5d496.png">
-
-
-## **Scenario** 
-Cyclistic, a bike-share company in Chicago, features more than 5,800 bicycles and 600 docking stations. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, the analysts want to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, the analysts will design a new marketing strategy to convert casual riders into annual members.
-
-Data set:  [Bike Sharing](https://divvy-tripdata.s3.amazonaws.com/index.html)
-
-## **Business Task**
-1. How can Cyclistic use digital media to influence casual riders to become members?
-2. Why would casual riders buy Cyclistic annual memberships?
-3. How do annual members and casual riders use Cyclistic bikes differently?
-
-## Tool used:
-#### 1. Spreadsheets: data cleaning and analysis
-#### 2. R: data analysis and visualization <br>
-
-<br>
-<br>
-
-# [**Project 4: Maven Taxi Challenge**](https://public.tableau.com/app/profile/wan.chi.huang/viz/TaxiTripsin2020/Dashboard1?publish=yes)
+# [**Project 2: Maven Taxi Challenge**](https://public.tableau.com/app/profile/wan.chi.huang/viz/TaxiTripsin2020/Dashboard1?publish=yes)
 
 ![Dashboard 1](https://user-images.githubusercontent.com/61902789/144736552-c0d76207-948d-4fb8-a951-0c8c713da6af.png)
 
@@ -90,6 +46,51 @@ For a given week,
 
 <br>
 <br>
+
+# [**Project 3: Women's E-Commerce Clothing Reviews Sentiment Analysis**](https://github.com/ts756632/Reviews-Sentiment-Analysis)
+
+<img width="430" alt="image" src="https://user-images.githubusercontent.com/61902789/132507768-2aba6b7f-62c2-4ddb-b02c-bce7e28e7460.png">
+
+## **Scenario** 
+Online shopping becomes more and more popular especially during the coronavirus pandemic. This is a Women’s Clothing E-Commerce dataset revolving around the reviews written by customers. More than ever customers have something to say with the products after purchasing. Sentiment analysis can be used to gauge customer response. It helps companies to improve the products according to the customers feedback. 
+
+Data set:  [Women's E-Commerce Clothing Reviews](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews)
+
+## **Business Task**
+1.	How to improve products based on customers reviews?
+2.	How do customers respond to the products?
+3.	What are the trends in the review data?
+
+
+## Tool used:
+#### 1. Python: data cleaning, analysis and visualization <br>
+
+<br>
+<br>
+
+# [**Project 4: How Does a Bike-Share Navigate Speedy Success?**](https://github.com/ts756632/Case_Study_1)
+
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/61902789/132508049-4b8d16db-b504-439e-a0b0-fbea9aa5d496.png">
+
+
+## **Scenario** 
+Cyclistic, a bike-share company in Chicago, features more than 5,800 bicycles and 600 docking stations. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, the analysts want to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, the analysts will design a new marketing strategy to convert casual riders into annual members.
+
+Data set:  [Bike Sharing](https://divvy-tripdata.s3.amazonaws.com/index.html)
+
+## **Business Task**
+1. How can Cyclistic use digital media to influence casual riders to become members?
+2. Why would casual riders buy Cyclistic annual memberships?
+3. How do annual members and casual riders use Cyclistic bikes differently?
+
+## Tool used:
+#### 1. Spreadsheets: data cleaning and analysis
+#### 2. R: data analysis and visualization <br>
+
+<br>
+<br>
+
+
 
 # [**Project 5: How Can a Wellness Technology Company Play It Smart?**](https://github.com/ts756632/Case_Study_2)
 
