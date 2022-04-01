@@ -16,7 +16,7 @@ The case study and datasets are from [8 Week SQL Challenge](https://8weeksqlchal
 4.  How does the campaign influence the two groups (visits who have received impressions and who don't)?
 
 ## Tool used:
-#### 1. PostgreSQL: data analysis <br>
+1. PostgreSQL: data analysis <br>
 <br>
 <br>
 
@@ -41,8 +41,8 @@ For a given week,
 
 
 ## Tool used:
-#### 1. Microsoft SQL Server: data cleaning  
-#### 2. Tableau: data analysis and visualization
+1. Microsoft SQL Server: data cleaning  
+2. Tableau: data analysis and visualization
 
 <br>
 <br>
@@ -63,7 +63,7 @@ Data set:  [Women's E-Commerce Clothing Reviews](https://www.kaggle.com/nicapota
 
 
 ## Tool used:
-#### 1. Python: data cleaning, analysis and visualization <br>
+1. Python: data cleaning, analysis and visualization <br>
 
 <br>
 <br>
@@ -84,8 +84,8 @@ Data set:  [Bike Sharing](https://divvy-tripdata.s3.amazonaws.com/index.html)
 3. How do annual members and casual riders use Cyclistic bikes differently?
 
 ## Tool used:
-#### 1. Spreadsheets: data cleaning and analysis
-#### 2. R: data analysis and visualization <br>
+1. Spreadsheets: data cleaning and analysis
+2. R: data analysis and visualization <br>
 
 <br>
 <br>
@@ -108,5 +108,5 @@ Data set:  [FitBit Fitness Tracker Data](https://www.kaggle.com/arashnic/fitbi)
 
 
 ## Tool used:
-#### 1. Microsoft SQL Server: data cleaning and analysis
-#### 2. Tableau: data visualization
+1. Microsoft SQL Server: data cleaning and analysis
+2. Tableau: data visualization
